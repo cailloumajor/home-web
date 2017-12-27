@@ -1,7 +1,5 @@
 # home-web
 
-[![Dependency Status](https://gemnasium.com/badges/github.com/cailloumajor/home-web.svg)](https://gemnasium.com/github.com/cailloumajor/home-web)
-
 **Home management website project**
 
 This is a rebirth of the monolithic [previous project](https://github.com/cailloumajor/home-web-monolithic), trying to be more modular by using :
