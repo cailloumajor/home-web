@@ -1,18 +1,18 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "4bcd425656dfc9c44659d1a3d6e1abaa21992cbd7ce15c8e5deed16de0cfdf8c"
+            "sha256": "f339b20f36eea5de2d309b22b2d0f47c913c035203fc4252d2df9813fd7f6994"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
-            "implementation_version": "3.6.4c1",
+            "implementation_version": "3.6.4",
             "os_name": "posix",
             "platform_machine": "x86_64",
             "platform_python_implementation": "CPython",
-            "platform_release": "4.13.0-1-amd64",
+            "platform_release": "4.14.0-2-amd64",
             "platform_system": "Linux",
-            "platform_version": "#1 SMP Debian 4.13.13-1 (2017-11-16)",
-            "python_full_version": "3.6.4rc1",
+            "platform_version": "#1 SMP Debian 4.14.7-1 (2017-12-22)",
+            "python_full_version": "3.6.4",
             "python_version": "3.6",
             "sys_platform": "linux"
         },
@@ -42,13 +42,6 @@
                 "sha256:1d7b22bdc47aa52841120fcd22a74ae4fc8c13e9d3935643098184f5788c3ce6"
             ],
             "version": "==3.5.0.3"
-        },
-        "cached-property": {
-            "hashes": [
-                "sha256:8aacd79aa85a793419c76de9662d9a72ad4751eda2a8b8eb94223adc4d8d85f1",
-                "sha256:458e78b1c7286ece887d92c9bee829da85717994c5e3ddd253a40467f488bc81"
-            ],
-            "version": "==1.3.0"
         },
         "celery": {
             "hashes": [
@@ -99,12 +92,6 @@
             ],
             "version": "==3.7.7"
         },
-        "enum-compat": {
-            "hashes": [
-                "sha256:939ceff18186a5762ae4db9fa7bfe017edbd03b66526b798dd8245394c8a4192"
-            ],
-            "version": "==0.0.2"
-        },
         "gunicorn": {
             "hashes": [
                 "sha256:75af03c99389535f218cc596c7de74df4763803f7b63eb09d77e92b3956b36c6",
@@ -118,23 +105,6 @@
                 "sha256:4249d9dd9dbf1fcec471d1c2def20653c9310dd1a217272d77e4844f9d5273cb"
             ],
             "version": "==4.1.0"
-        },
-        "netifaces": {
-            "hashes": [
-                "sha256:f300a351796b46d7c67b1535eb2dcdb790d2947f8a03a5a2ff1059962ff4bef5",
-                "sha256:be461914a0da7e867acef77afc2600a035122ca35e24dfd92a65974062bd18a5",
-                "sha256:d6c65755c4a0f9fe0b6798bd47fe187dbb4f67256d68a08d71dd754bf5e35766",
-                "sha256:35d9e1f84a8dfa30fb944a2327ef1b5b75be4feb3c79fef208dbc361252a6dc5",
-                "sha256:59d8ad52dd3116fcb6635e175751b250dc783fb011adba539558bd764e5d628b"
-            ],
-            "version": "==0.10.5"
-        },
-        "pilotwire-controller": {
-            "hashes": [
-                "sha256:7f334a209de17264353c12472fb66ba962da7868a9710049890a6320f09d7ae4",
-                "sha256:98bc10e2dac92f0e579ee7e2d430b13db6090c59f3e41e04e6129a00f7639526"
-            ],
-            "version": "==0.9.0"
         },
         "psycopg2": {
             "hashes": [
@@ -200,13 +170,6 @@
             ],
             "version": "==1.1.10"
         },
-        "six": {
-            "hashes": [
-                "sha256:0ff78c403d9bccf5a425a6d31a12aa6b47f1c21ca4dc2573a7e2f32a97335eb1",
-                "sha256:105f8d68616f8248e24bf0e9372ef04d3cc10104f1980f54d57b2ce73a5ad56a"
-            ],
-            "version": "==1.10.0"
-        },
         "vine": {
             "hashes": [
                 "sha256:6849544be74ec3638e84d90bc1cf2e1e9224cc10d96cd4383ec3f69e9bce077b",
@@ -220,13 +183,6 @@
                 "sha256:9d81515f2b5b27051910996e1e860b1332e354d9e7bcf30c98f21dcb6713e0dd"
             ],
             "version": "==3.3.1"
-        },
-        "zeroconf": {
-            "hashes": [
-                "sha256:af03b7f4c54bf354c1f94e40f81cdcb017127718f038ad29acf35add4f9682fe",
-                "sha256:c2cbcd7c54fa078afba47ab0c2125f487fd8465d4d398a9a4a01122836202868"
-            ],
-            "version": "==0.18.0"
         }
     },
     "develop": {
