@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import operator
 from datetime import datetime, time, timedelta
 from functools import reduce

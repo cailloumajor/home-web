@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # pylint: disable=too-many-ancestors
 
 from django_filters.rest_framework import DjangoFilterBackend

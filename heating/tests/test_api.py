@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # pylint: disable=no-self-use, redefined-outer-name, too-few-public-methods
 # pylint: disable=no-member
 

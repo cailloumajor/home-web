@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # pylint: disable=no-self-use
 
 from django.contrib.auth import authenticate, get_user

@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import pytest
 from redislite import StrictRedis
 from redislite.patch import patch_redis, unpatch_redis
